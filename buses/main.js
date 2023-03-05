@@ -30,7 +30,7 @@
             //     bearing:x.vehicle.position.bearing
             //     })});            
                     
-            //This is sample data
+            //Below is sample data (https://hrmbusapi.onrender.com/ is not available now)
             arrBusData = [
                 {routeId:"1",
                 latitude:44.650637,
